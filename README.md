@@ -16,7 +16,7 @@ I'm [Your Name], a BCA student and aspiring data scientist. Welcome to my GitHub
 - 📊Python
 
 ## Get in Touch
-- 🐦 [Twitter](YourTwitterProfile)
+- 🐦 [Twitter]-https://twitter.com/ajaych2822
 - 📧 [Email]-ajaych2822@gmail.com
 
 Feel free to explore my repositories and connect with me! 🚀✨
