@@ -12,7 +12,8 @@ I'm [Your Name], a BCA student and aspiring data scientist. Welcome to my GitHub
 
 - 🔧 JavaScript
 - 📊 Data Science
-- 🚀 [Other Technologies]
+- 🚀 HTML,CSS
+- 📊Python
 
 ## Get in Touch
 - 🐦 [Twitter](YourTwitterProfile)
