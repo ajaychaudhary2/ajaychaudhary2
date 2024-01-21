@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a BCA student and aspiring data scientist. Welcome to my GitHub profile!
+I'm Ajay chaudhary, a BCA student and aspiring data scientist. Welcome to my GitHub profile!
 
 ## About Me
 
